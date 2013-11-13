@@ -1,0 +1,38 @@
+/*  me.css  */
+.ithought{
+	font-size:18px;
+	color:orange;
+}
+
+.lefty {float:left;}
+.righty {float:right;}
+.gold {color: #FC0;}
+.orienta {font-family: 'Orienta', sans-serif;}
+.size9 {font-size:12px;}
+.size20 {font-size:20px;}
+.leftyrighty {
+	overflow: hidden;
+	width: 100%;
+}
+
+section h1 {
+  font-size: 25px;
+  text-align: left;
+  line-height: 23px;
+}
+
+/***  footer ***/
+
+footer .credits {
+  font-size: 11px;
+  font-family: 'OpenSansRegular', "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: normal;
+  color: #696969;
+  margin-top: -10px;
+}
+footer .credits.left {
+  float: left;
+}
+footer .credits.right {
+  float: right;
+}
